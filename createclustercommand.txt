@@ -1,0 +1,1 @@
+ksctl create cluster --config-file=eks.yaml
