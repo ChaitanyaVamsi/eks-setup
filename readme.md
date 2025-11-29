@@ -1,3 +1,3 @@
-after setup is done run this to create a cluster 
+To create an Amazon EKS cluster using eksctl with a configuration file named eks.yaml
 
 eksctl create cluster --config-file=eks.yaml
